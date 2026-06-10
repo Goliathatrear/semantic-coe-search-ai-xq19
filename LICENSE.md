@@ -1,4 +1,4 @@
-# 
+# 智能 Semantic Code Search 工具。集成 代码生成 和 混合AI模型，性能和效率最大化。
 
 
 
